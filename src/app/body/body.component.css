@@ -1,0 +1,27 @@
+.saldo{
+  padding: 28px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: lighter;
+  font-size: 18px;
+}
+.saldo > h4{
+  margin-top: 10px;
+}
+.saldo > h6{
+  margin-top: 10px;
+  color: grey;
+  font-weight: lighter;
+}
+.icons-section{
+  display: flex;
+  justify-content: space-around;
+}
+.icon-1,.icon-2,.icon-3,.icon-4,.icon-5{
+  width: 70px;
+  height: 70px;
+  border-radius: 50px;
+  background-color: rgb(224, 220, 220);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
